@@ -15,7 +15,7 @@
 *El sistema bajo desarrollo busca abarcar todas las cuestiones referidas a la gestión de Cafeterías y la administración de las mismas. Permitiendo a los usuarios del sistema interactuar, buscar y filtrar las cafeterías. Además, permite a los propietarios subir sus cafeterías, editarlas y visualizar los comentarios recibidos, mientras los administradores pueden aprobar o rechazar cafeterías, gestionar usuarios, etc.*
 
 ### Modelo
-![imagen del modelo]()
+[imagen del modelo](https://drive.google.com/file/d/1pVub1tAT_0DuA5hhEC5CTd_3GG3dD1du/view?usp=sharing)
 
 ## Alcance Funcional 
 
