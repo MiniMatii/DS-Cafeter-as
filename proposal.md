@@ -7,8 +7,8 @@
 * 52765 - Fracchia, Matias
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
+* [frontend app](https://github.com/avrilwaigandt/cafeterias-front)
+* [backend app](https://github.com/avrilwaigandt/cafeterias-back)
 
 ## Tema
 ### Descripción
