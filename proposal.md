@@ -25,16 +25,16 @@ Regularidad:
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Usuario<br>2. CRUD Sucursal<br>3. CRUD Servicio|
-|CRUD dependiente|1. CRUD  Cafeteria {depende de} CRUD Usuario y CRUD Sucursal<br>2. CRUD Producto {depende de} CRUD Cafeteria<br><s>3. CRUD Reseña {depende de} CRUD Usuarios y CRUD Cafeteria|</s>
+|CRUD dependiente|1. CRUD  Cafeteria {depende de} CRUD Usuario y CRUD Sucursal<br>2. CRUD Producto {depende de} CRUD Cafeteria<br>3. CRUD Cartas {depende de} CRUD Usuarios y CRUD Cafeterias
 |Listado<br>+<br>detalle| 1. Listado de cafeterías por zona y puntaje, muestra nombre y puntaje -> detalle: muestra datos completos, servicios, opiniones y su carta digital (lista de productos y precios)<br> 2. Listado de cafeterías pendientes filtrado por fecha, nombre y propietario -> detalle: muestra solicitud completa para revisión (para el administrador)|
 |CUU/Epic|1. Registrar una nueva cafetería (estado inicial en pendiente)<br>2. Aprobar o rechazar solicitud de nueva|
 
 
-Adicionales para Aprobación
+### Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Usuario<br>2. CRUD Sucursal<br>3. CRUD Servicio<br>4. CRUD Cafetería<br>5. CRUD Producto<br>6. CRUD Reseña<br>7. CRUD Favoritos|
-|CUU/Epic|1. Registrar una nueva cafetería (estado inicial en pendiente)<br>2. Aprobar o rechazar solicitud de nueva cafetería<br><s>3. Calificar y comentar una cafetería (opiniones/reseñas)|</s><br>3.CRUD Cartas
+|CUU/Epic|1. Registrar una nueva cafetería (estado inicial en pendiente)<br>2. Aprobar o rechazar solicitud de nueva cafetería<br>3. Calificar y comentar una cafetería (opiniones/reseñas)|
 
 
 ### Alcance Adicional Voluntario
